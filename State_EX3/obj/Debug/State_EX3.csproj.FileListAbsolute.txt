@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\bin\Debug\State_EX3.exe.config
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\bin\Debug\State_EX3.exe
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\bin\Debug\State_EX3.pdb
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\obj\Debug\State_EX3.csprojAssemblyReference.cache
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\obj\Debug\State_EX3.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\obj\Debug\State_EX3.exe
+C:\Users\HackerU\source\Michael\State_EX3\State_EX3\obj\Debug\State_EX3.pdb
