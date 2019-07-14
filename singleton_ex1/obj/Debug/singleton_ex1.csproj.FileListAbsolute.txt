@@ -1,0 +1,6 @@
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\bin\Debug\singleton_ex1.exe.config
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\bin\Debug\singleton_ex1.exe
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\bin\Debug\singleton_ex1.pdb
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\obj\Debug\singleton_ex1.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\obj\Debug\singleton_ex1.exe
+C:\Users\HackerU\source\repos\singleton_ex1\singleton_ex1\obj\Debug\singleton_ex1.pdb
