@@ -1,0 +1,7 @@
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\bin\Debug\ChainOfResp_EX6.exe.config
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\bin\Debug\ChainOfResp_EX6.exe
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\bin\Debug\ChainOfResp_EX6.pdb
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\obj\Debug\ChainOfResp_EX6.csprojResolveAssemblyReference.cache
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\obj\Debug\ChainOfResp_EX6.csproj.CoreCompileInputs.cache
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\obj\Debug\ChainOfResp_EX6.exe
+c:\Users\HackerU\source\Michael\ChainOfResp_EX6\ChainOfResp_EX6\obj\Debug\ChainOfResp_EX6.pdb
