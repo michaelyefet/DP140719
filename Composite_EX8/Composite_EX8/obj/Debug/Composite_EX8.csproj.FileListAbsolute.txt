@@ -1,0 +1,7 @@
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\bin\Debug\Composite_EX8.exe.config
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\bin\Debug\Composite_EX8.exe
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\bin\Debug\Composite_EX8.pdb
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\obj\Debug\Composite_EX8.csprojResolveAssemblyReference.cache
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\obj\Debug\Composite_EX8.csproj.CoreCompileInputs.cache
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\obj\Debug\Composite_EX8.exe
+c:\Users\HackerU\source\Michael\Composite_EX8\Composite_EX8\obj\Debug\Composite_EX8.pdb
