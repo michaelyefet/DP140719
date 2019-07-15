@@ -1,0 +1,7 @@
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\bin\Debug\Prototupe_EX9.exe.config
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\bin\Debug\Prototupe_EX9.exe
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\bin\Debug\Prototupe_EX9.pdb
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\obj\Debug\Prototupe_EX9.csprojResolveAssemblyReference.cache
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\obj\Debug\Prototupe_EX9.csproj.CoreCompileInputs.cache
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\obj\Debug\Prototupe_EX9.exe
+c:\Users\HackerU\source\Michael\Prototupe_EX9\Prototupe_EX9\obj\Debug\Prototupe_EX9.pdb
