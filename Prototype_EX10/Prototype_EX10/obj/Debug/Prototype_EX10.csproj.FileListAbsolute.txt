@@ -1,0 +1,7 @@
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\bin\Debug\Prototype_EX10.exe.config
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\bin\Debug\Prototype_EX10.exe
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\bin\Debug\Prototype_EX10.pdb
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\obj\Debug\Prototype_EX10.csprojResolveAssemblyReference.cache
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\obj\Debug\Prototype_EX10.csproj.CoreCompileInputs.cache
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\obj\Debug\Prototype_EX10.exe
+c:\Users\HackerU\source\Michael\Prototype_EX10\Prototype_EX10\obj\Debug\Prototype_EX10.pdb
