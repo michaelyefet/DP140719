@@ -1,0 +1,7 @@
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\bin\Debug\ChainOfResp_EX5.exe.config
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\bin\Debug\ChainOfResp_EX5.exe
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\bin\Debug\ChainOfResp_EX5.pdb
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\obj\Debug\ChainOfResp_EX5.csprojResolveAssemblyReference.cache
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\obj\Debug\ChainOfResp_EX5.csproj.CoreCompileInputs.cache
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\obj\Debug\ChainOfResp_EX5.exe
+c:\Users\HackerU\source\Michael\ChainOfResp_EX5\ChainOfResp_EX5\obj\Debug\ChainOfResp_EX5.pdb
