@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\bin\Debug\TemplateBase.exe.config
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\bin\Debug\TemplateBase.exe
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\bin\Debug\TemplateBase.pdb
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\obj\Debug\TemplateBase.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\obj\Debug\TemplateBase.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\obj\Debug\TemplateBase.exe
+C:\Users\HackerU\source\Michael\TemplateBase\TemplateBase\obj\Debug\TemplateBase.pdb
