@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\obj\Debug\Adapter_EX12.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\obj\Debug\Adapter_EX12.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\bin\Debug\Adapter_EX12.exe.config
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\bin\Debug\Adapter_EX12.exe
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\bin\Debug\Adapter_EX12.pdb
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\obj\Debug\Adapter_EX12.exe
+C:\Users\HackerU\source\Michael\Adapter_EX12\Adapter_EX12\obj\Debug\Adapter_EX12.pdb
