@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\bin\Debug\Brifge_EX19.exe.config
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\bin\Debug\Brifge_EX19.exe
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\bin\Debug\Brifge_EX19.pdb
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\obj\Debug\Brifge_EX19.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\obj\Debug\Brifge_EX19.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\obj\Debug\Brifge_EX19.exe
+C:\Users\HackerU\source\Michael\Brifge_EX19\Brifge_EX19\obj\Debug\Brifge_EX19.pdb
