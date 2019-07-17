@@ -10,8 +10,8 @@ namespace Brifge_EX19
     {
         static void Main(string[] args)
         {
-            TV television = new TV(30,32,false);
-            Memir mem = new Memir(2,50,true);
+            TV television = new TV(15,32,false);
+            Memir mem = new Memir(16,50,true);
             RemoreControl Remote = new RemoreControl(television);
             Remote.On();
             Remote.PrintState();
