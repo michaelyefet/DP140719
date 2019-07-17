@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\bin\Debug\Builder_EX17.exe.config
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\bin\Debug\Builder_EX17.exe
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\bin\Debug\Builder_EX17.pdb
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\obj\Debug\Builder_EX17.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\obj\Debug\Builder_EX17.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\obj\Debug\Builder_EX17.exe
+C:\Users\HackerU\source\Michael\Builder_EX17\Builder_EX17\obj\Debug\Builder_EX17.pdb
