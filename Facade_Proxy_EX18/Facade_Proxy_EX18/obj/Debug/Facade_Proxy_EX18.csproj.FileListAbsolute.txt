@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\bin\Debug\Facade_Proxy_EX18.exe.config
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\bin\Debug\Facade_Proxy_EX18.exe
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\bin\Debug\Facade_Proxy_EX18.pdb
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\obj\Debug\Facade_Proxy_EX18.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\obj\Debug\Facade_Proxy_EX18.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\obj\Debug\Facade_Proxy_EX18.exe
+C:\Users\HackerU\source\Michael\Facade_Proxy_EX18\Facade_Proxy_EX18\obj\Debug\Facade_Proxy_EX18.pdb
