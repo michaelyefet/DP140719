@@ -1,0 +1,6 @@
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\bin\Debug\FinalTest_EX12.exe.config
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\bin\Debug\FinalTest_EX12.exe
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\bin\Debug\FinalTest_EX12.pdb
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\obj\Debug\FinalTest_EX12.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\obj\Debug\FinalTest_EX12.exe
+C:\Users\HackerU\source\Exam\FinalTest_EX12\FinalTest_EX12\obj\Debug\FinalTest_EX12.pdb
