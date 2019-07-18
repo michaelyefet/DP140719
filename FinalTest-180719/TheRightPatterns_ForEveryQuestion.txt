@@ -1,0 +1,9 @@
+1) state
+2)composite
+3)proxy + facade
+5)Chain Of Responsibilities
+6)flyweight + factory
+8)TemplateBase
+10)decorator
+11)memento
+12)Builder
