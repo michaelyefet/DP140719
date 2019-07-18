@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\bin\Debug\FinalTest_EX6.exe.config
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\bin\Debug\FinalTest_EX6.exe
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\bin\Debug\FinalTest_EX6.pdb
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\obj\Debug\FinalTest_EX6.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\obj\Debug\FinalTest_EX6.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\obj\Debug\FinalTest_EX6.exe
+C:\Users\HackerU\source\Exam\FinalTest_EX6\FinalTest_EX6\obj\Debug\FinalTest_EX6.pdb
