@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\bin\Debug\Strategy_EX20.exe.config
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\bin\Debug\Strategy_EX20.exe
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\bin\Debug\Strategy_EX20.pdb
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\obj\Debug\Strategy_EX20.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\obj\Debug\Strategy_EX20.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\obj\Debug\Strategy_EX20.exe
+C:\Users\HackerU\source\Michael\Strategy_EX20\Strategy_EX20\obj\Debug\Strategy_EX20.pdb
