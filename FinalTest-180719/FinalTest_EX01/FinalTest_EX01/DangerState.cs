@@ -19,7 +19,7 @@ namespace FinalTest_EX01
             }
             else
             {
-                Console.WriteLine("You have no living points - sorry you have lost");
+                Console.WriteLine($"You have {currLivingPoints} living points - you move to danger state");
                 return new DangerState();
             }
         }
